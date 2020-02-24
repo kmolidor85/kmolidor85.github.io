@@ -1,11 +1,11 @@
 # Site settings
-author: kyle molidor
-title: 
+author: Kyle Molidor
+title: The Journey to a better future
 header-img: img/home-bg.png
 email: k_molidor@yahoo.com
-copyright_name: kyle molidor
+copyright_name: Kyle Molidor
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The beginning is never easy,  its about the fight to get there.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kmolidor85
