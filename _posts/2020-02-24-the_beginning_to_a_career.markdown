@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Beginning To A Career"
-date:       2020-02-24 06:06:34 +0000
+date:       2020-02-24 01:06:35 -0500
 permalink:  the_beginning_to_a_career
 ---
 
